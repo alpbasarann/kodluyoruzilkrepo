@@ -1,1 +1,2 @@
-# kodluyoruzilkrepo
+# kodluyoruzilkrepo 
+// kodluyoruz git homework
